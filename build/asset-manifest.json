@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/farzad2004/farzad2004-monster-rolodex/static/css/main.94b62cd6.chunk.css",
+    "main.js": "/farzad2004/farzad2004-monster-rolodex/static/js/main.3b7233df.chunk.js",
+    "main.js.map": "/farzad2004/farzad2004-monster-rolodex/static/js/main.3b7233df.chunk.js.map",
+    "runtime-main.js": "/farzad2004/farzad2004-monster-rolodex/static/js/runtime-main.e6c4c10a.js",
+    "runtime-main.js.map": "/farzad2004/farzad2004-monster-rolodex/static/js/runtime-main.e6c4c10a.js.map",
+    "static/js/2.b6f2604e.chunk.js": "/farzad2004/farzad2004-monster-rolodex/static/js/2.b6f2604e.chunk.js",
+    "static/js/2.b6f2604e.chunk.js.map": "/farzad2004/farzad2004-monster-rolodex/static/js/2.b6f2604e.chunk.js.map",
+    "index.html": "/farzad2004/farzad2004-monster-rolodex/index.html",
+    "precache-manifest.ee60d796ef6279bee3898fb5af0c4ced.js": "/farzad2004/farzad2004-monster-rolodex/precache-manifest.ee60d796ef6279bee3898fb5af0c4ced.js",
+    "service-worker.js": "/farzad2004/farzad2004-monster-rolodex/service-worker.js",
+    "static/css/main.94b62cd6.chunk.css.map": "/farzad2004/farzad2004-monster-rolodex/static/css/main.94b62cd6.chunk.css.map",
+    "static/js/2.b6f2604e.chunk.js.LICENSE.txt": "/farzad2004/farzad2004-monster-rolodex/static/js/2.b6f2604e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e6c4c10a.js",
+    "static/js/2.b6f2604e.chunk.js",
+    "static/css/main.94b62cd6.chunk.css",
+    "static/js/main.3b7233df.chunk.js"
+  ]
+}
